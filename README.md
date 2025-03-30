@@ -5,4 +5,4 @@ i) 32
 ii) 64
 iii) 128
 
-This is a very memory intensive program. Embeddings of 128 dimensions over a dataset of 10000 senctences is not recommended for 16GB RAM.
+This is a very memory intensive program. Embeddings of 128 dimensions over a dataset of 10000 sencences is not recommended for 16GB RAM.
